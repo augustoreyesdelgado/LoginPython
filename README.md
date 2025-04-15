@@ -1,4 +1,4 @@
-# 🌐 LoginPython: Sistema de Autenticación Minimalista
+# 🌐 LoginPython: Sistema de Insano 😈
 
 ¡Bienvenido al proyecto **LoginPython**! Este repositorio contiene un sistema de autenticación básico pero elegante, diseñado para ser el punto de partida perfecto para tus aplicaciones web. 🚀
 
